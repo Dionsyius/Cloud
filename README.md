@@ -59,7 +59,7 @@ To run a scan against a target using Tor:
 * dnspython
 
 ## Donate BTC
-> 13eiCHxmAEaRZDXcgKJVtVnCKK5mTR1u1F
+> 0x9838c8719A624Ce608dc0f0D255d871071e9f319
 
 Buy me a beer or coffee... or both! 
 If you donate send me a message and I will add you to the credits!
