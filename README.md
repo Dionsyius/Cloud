@@ -58,7 +58,7 @@ To run a scan against a target using Tor:
 * win_inet_pton
 * dnspython
 
-## Donate BTC
+## Donate ETH
 > 0x9838c8719A624Ce608dc0f0D255d871071e9f319
 
 Buy me a beer or coffee... or both! 
